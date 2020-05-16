@@ -1,0 +1,80 @@
+Akademik olarak ilgilendiğim yapay zeka konusunda Linkedin’de son zamanlarda gördüğüm ve Ord. Prof. Dr. Cahit Arf’a atfedilen “Makine Düşünebilir mi ve Nasıl Düşünebilir?” başlıklı yazıyı görünce çok şaşırdım. Bu alanda çeşitli okumalar yapmama rağmen bu yazıya şu ana kadar rastlamamıştım. Ama şaşkınlığım asıl nedeni yazının tarihiydi: 1959!
+
+Karşılaştığım paylaşımlarda yazının kapak fotoğrafı bulunuyordu ve içeriğine dair yapılan bir paylaşıma denk gelememiştim. Sonrasında bir kişinin PDF formatında içeriği de paylaştığını gördüm ve hemen bilgisayarıma indirdim (ne yazık ki heyecandan paylaşan kişinin adına bakmadım bile fakat ilk sayfada Emir Öngüner ismi zikredilmekte)
+
+No alt text provided for this image
+No alt text provided for this image
+Başlığı ilk gördüğümde Alan Turing’in 1950 yılında bir bilgisayar bilimci olarak Mind isimli felsefe dergisinde yayınladığı “Computing Machinery and Intelligence” isimli makalesinin bir yorumu olduğunu düşündüm. Çünkü Turing’in makalesi şu cümle ile başlıyor: (Makineler düşünebilir mi? sorusunu değerlendirmeyi öneriyorum)
+
+“I propose to consider the question, “Can machines think?””.
+No alt text provided for this image
+
+
+Bu beklentiyle yazıyı okumaya başladım ve sonrasında aldığım notları sizlerle paylaşmanın iyi olacağını düşünerek bu yazıyı kaleme aldım.
+
+Makaleden Satır Başları
+
+Hocamız Atatürk Üniversitesinin ilk ders senesinde gerçekleşen bu konferansa davet edildiği için teşekkürlerini ileterek konuşmasına başlıyor. Erzurum’un köklü bir tarihe ve kültüre sahip olduğunu belirtiyor ve bu şehri bir bilim yuvası haline gelmiş şekliyle hayal edebileceğimizi söylüyor. Buna ulaşmamızın önünde herhangi bir engel olmadığını belirterek Tiflis’i örnek gösterirken ülkemizin batısındaki büyük şehirleri bu seviyeye gelemedikleri için eleştirerek devam ediyor.
+
+Konferanstaki asıl amacının, bilim yolunda ilerlememizi sağlayacak ana etmenlerden biri olarak düşündüğü “pozitif zihniyet” hakkında konuşmak olduğunu belirtiyor. Bu sebeple yazının ilk sayfaları bu odakla ilerliyor. 
+
+Eski zamanlarda bilgisine haiz olmadığımız durumlarda herkesin kendi aklını kullanıp değerlendirme yapmak yerine, bilgisine güvendiği kişilere, hocalara danışıp onlardan akıl aldığını söylüyor. Hatta o hocaların olay üzerine düşünmemize yardım etmesini beklemediğimiz gibi, çünkü bu onların bilgisine duyduğumuz güvene zarar verir, alınan tavsiyelerin de onlardan eskilerin söylediklerinin tekrarından başka bir şey olmadığını ekliyor.
+
+Bu zihniyetin kalıntılarının devam ettiği ve genellikle münazaralarda fikir alışverişi yerine tarafların birbirlerini yenme gayesinde hareket ettiğini belirtiyor. Ayrıca günümüzde tartışmalar esnasında artık din adamlarından ziyade Batılı bilim insanlarına işaret edildiğini söylüyor. Herhangi bir düşünme faaliyetinde varolan bilgilere ya da kişilere tabiki başvurabileceğimizi fakat asıl gayenin şahsi fikrimizi oluşturmak olması gerektiğini belirtiyor. Buraya kadar hocamız kendi aklımıza güvenmiyor olmamızı eleştiriyor ve benzer bir fikri sakatlığın ise Batıya ve Batılıya duyulan aşırı güven olduğunu da ekliyor.
+
+Düşünme ve anlama faaliyetinin zor olmadığını açıklamak için Yedek Subay Okulun’da erler ve yedek subaylar hakkındaki tespitlerini aktarıyor. Ezber temelli eğitimin bilinenler üzerinden bilinmeyene doğru düşünme kabiliyetini öldürdüğünü söylüyor. Öğrendiklerimizi genişletebilmemiz için herkesin kendi aklına güvenip kullanması gerektiğini belirtiyor.
+
+Anlamakta zorlandığımız olayların göründüğü kadar güç olmadığını ve basit ilkelerden ve bilinenlerden hareketle ilerlemenin mümkün olduğunu; Batının bilimsel ilerlemede gösterdiği kümülatif yaklaşımın sabır ve sebatın ürünü olduğunu anlatıyor.
+
+Anlama noktasında aceleci davranmamak gerektiğini, ilk radyo vericisini yaptığı kabul edilen Marconi ve bir kadın arasında geçen ve radyo vericisinin nasıl çalıştığıyla ilgili bir konuşma üzerinden anlatıyor Yine ilk bakışta anlaşılması zor görülen konulara İkinci Dünya Savaşı zamanından örnekler veriyor: Atom enerjisi, uzay teknolojileri ve duruma göre kararlar veren ve bu kararlara uygun işler yapan düşünen makineler. 
+
+Cahit hoca buradan hareketle düşünen makineleri ele alacağını ve bunun arkasında bir mucize olmadığını aktaracağını belirtiyor. Öncelike düşüncenin tanımını yapıyor. (Turing’de benzer şekilde düşünmenin tanımıyla başlamak gerektiğini fakat bunun yerine günümüzde Turing Test olarak bilenen ama makalede Imitation Game (Taklit Oyunu) olarak geçen düşünce deneyiyle bu durumu anlatacağını söylüyor) Düşüncenin varlığını düşünce sonucu gözlemlenen durumlar üzerinden tanımlanıyor. Düşünen basit bir makineye alarmlı bir saati ve telefonu örnek olarak veriyor. Bu cihazlarının kabiliyetlerinin de geliştirileceğini ekliyor.
+
+Bu cihazların verilen örneklere bakılarak düşündüğünün söylenemeyeceği şeklinde gelebilecek bir itiraza cevap olarak iki matematik problemi üzerinden bir yanıt veriyor (Turing de benzer şekilde makalesine gelebilecek olası 9 itirazı ele almıştır).
+
+İlk problem, bir kümeste bulunan tavuk ve tavşan sayısının verilen ayak ve kafa sayısı üzerinden nasıl bulunabileceğidir. Öncelikle bu problemin matematiksel çözümünü veriyor. Sonrasında bu problemi çözebilecek huni, bilye ve turnike gibi bileşenlerden oluşan bir mekanizma öneriyor.
+
+No alt text provided for this image
+İkinci problem ise iki oğlu bulunan bir babanın çeşitli kurallar üzerinden tanımladığı vasiyet problemidir. Belirtilen kuralları mantık devreleri üzerinden modelleyerek çözüyor.
+
+No alt text provided for this image
+Örnekler sonrası okuyucunun yine de tatmin olamayabileceğini söyleyerek ilk verdiği örnekte beynimizin de benzer bir işleyiş tarzına sahip olduğunu belirtiyor. Beynimizin de aldığı verileri ve bu verilerden çıkarılmak istenen sonucun arasındaki bağları, benzerlikler yardımıyla kurduğunu söyleyerek bu şekilde düşünme faaliyetine “benzerlikle düşünme” ve bunun somutlaştırılmış haline ise “analog makine” dendiğini anlatıyor. Miras örneği için tüm olasılıkların göz önüne alındığı ve sonrasında girdilere göre uygun olmayan durumların elenerek sonuca erişildiği anlatıyor. Bu düşünme şekline “yoketme” ve bu tarzda işleyen makinelere de “dijital makineler” denildiğini belirtiyor.
+
+Bence yazının asıl kırılma noktası buradan itibaren başlıyor. Çünkü Cahit hoca artık “Tüm problemleri çözebilen bir makine yapabilir miyiz?” sorusunu soruyor. Çünkü verdiği düşünen makine örneklerine gelebilecek bir sonraki itirazın, bu inşa edilen makinelerin sadece bir problemi çözebilmesi olduğunu söylüyor. Hatta bir makinenin cevaplandırabildiği problem sayısını birden on bine çıkarsak bile çözmüş olduğumuz problemleri çözdüğü için beyin yakıştırması yapamayacağımızı belirtiyor. Çünkü beynin önceden karşılaşmadığı problemleri çözebildiğini varsaydığımızı ve en önemli özelliğinin değişen şartlara rağmen yine de çözüm bulabilme yeteneği olduğunu ifade ediyor. O halde soru şu şekilde evriliyor: Düşünülmemiş problemleri de çözebilen bir makine yapılabilir mi? Yapılabilirse nasıl yapılır?
+
+Cahit Hoca soruya beynimizin nasıl işlediğini inceleyerek başlıyor ve durum tespiti yapıyor: 
+
+Probleme dair girdilerin beyin tarafından alınması 
+Girdilerle ilişkili olabilecek bilgilerin hafızadan ön hafızaya çağrılması
+Girdilerin mantıki hesap ya da benzerlikle düşünme yoluyla dönüşüme uğratılması
+Cevabın dışarıya aktarılması ve bir taraftan hafızaya kaydedilmesi
+Cahit Hoca beynin işleyiş tarzının belirttiği adımlardan çok daha karmaşık olabileceğini kabul ediyor. Beynimizin kabaca böyle işlediğini kabul edersek olası makinenin tasarımını ve gerekli parçaları da çizimle gösteriyor:
+
+No alt text provided for this image
+Dışarıdan girdi olarak alınacak verilerin makine tarafından dönüştürülüp kaydedileceğini belirttirken girdinin orijinal haline “alış dili”, üzerinden işlem yaptığı dönüştürülmüş veriye ise “neşir dili” diyor. Beynimizin alış dilinin, 29 harfin çeşitli dizilimleri neticesinde elde ettiğimiz kelimelerden ibaret olduğunu söylüyor. Ayrıca harf sayısının dilin zenginliğiyle ilgili olmadığını ve sadece iki harf kullanmış olsak bile aynı zenginliğe erişebileceğimizi belirtiyor ve burada ikili(binary) gösterim üzerinden harfleri tanımlayabileceğimizi örneklerle gösteriyor. Burada ayrıca günümüzde işlemcilere tek seferde gönderebileceğimiz bit sayısı sabitelerine (32bit, 64bit gibi) beynin de sahip olduğuna dair bir çıkarımını da aktarıyor.
+
+Bu açıklamalardan sonra ikili sisteme uyarlanan mantık kapılarının esaslarını anlatmaya başlıyor. Devrenin açık ya da kapalı olmasına göre taşıdığı bilgiyi elektrik ve elektrik düğmesi örneği üzerinden anlatıyor. Rölenin çalışma prensibi üzerinden hafızayı nasıl elde edeceğimizi detaylandırıyor. Burada verdiği devre çizimi üzerinden hafıza ve ön hafızayı ilişkilendiriyor. Bu anlatılan temel ilkelere dayanarak daha karmaşık hesaplar yapabilen makineler üretildiğini belirtiyor IBM’in bu işi ticari maksatla yürüttüğünü ifade ediyor. Ayrıca röle yerine lamba(vacuum tube) kullanılması durumunda beyinden daha hızlı işlem yapabileceğini ekliyor.
+
+No alt text provided for this image
+
+
+
+
+Buraya kadar hocamızın aktardığı konular ilginizi çektiyse bu konuda yazılmış harika bir eseri sizinle paylaşmak istiyorum: Charles Petzold tarafından kaleme alınan “Code: The Hidden Language of Computer Hardware and Software” isimli kitap, ikili sayı sisteminden başlayarak bilgisayar üzerinde görüntünün nasıl oluştuğuna kadar geçen tüm süreci eksiksiz ve anlaşılır bir dille anlatıyor. Ama ne yazık ki Türkçe çevirisi bulunmuyor.
+
+
+
+Mucize gibi duran bu makinelerin yapımının sanıldığının aksine basit esaslara dayandığını ama bu basitlikten karmaşık yapıların çıkarılması için sabır ve çalışmanın gerekli olduğunu ekliyor.  
+
+Cahit hoca son paragrafında işi felsefi boyutuyla ele alıyor ve bence burası alıntılamayı hakediyor:
+
+Makinelerin bazı işleri insan beynine nazaran çok daha çabuk yapabilmelerine mukabil anlayış yani alış kapasiteleri büyük bir salonu doldurabilecek kadar büyük olanlarında bile tenevvü (çeşitlilik) bakımından insan beyninden çok düşüktür. İnsan beyninin kendi kendisini kendi inisiyatifi ile tekemmül(gelişmek) ettirmesine mukabil(karşılık) makine yapıldığı gibi kalmaktadır. Bununla beraber kendi kendisini tekemmül ettiren makine tasarlamak mümkündür. Fakat kanaatimce insan beyni ile makine arasındaki asıl fark, insan beyninin estetik mahiyette(nitelik) müessirileri(etken) alıp onlar üzerinde işleyebilmesi ve yine estetik mahiyette olan kararlar verebilmesine, verilen bir işi yapıp yapmamak hususunda kendisini serbest hissetmesine mukabil makinede bu vasıfların benzerlerinin yok oluşudur. Bu vasıfları karakterize eden husus hepsinin de bir belirsizlik unsuru ihtiva etmesi, bunların şaşmaz bir şekilde uyguladıkları kaidelerin mevcut olmayışıdır. Belirsizlik karakterini haiz olan insan dışı tabiat hadiseleri mevcuttur. Bunlar atom içinde ceryan(gerçekleşen) eden olaylardır. Bu itibarla nisbeten küçük sayıda atom içinde ceryan eden olaylar böyle makinelerin işleyişinde müessir hale getirilebilirse, makinelerin estetik bakımdan da insan beynine benzetileceği ümit edilebilecektir. Böyle bir makine, mesela filan müzik parçasını güzel bulmadığını söyleyebilecektir. Fakat bu işin uzun yüzyıllar sonra bile ve belki de hiçbir zaman yapılamayacağını zannediyorum.
+Bu yorum aklıma fizikçi ve filozof Roger Penrose’u getirdi. Penrose, kuantum dünyasında ölçümü aşan ve öngörülemeyen durumlar nedeniyle beynin hiçbir zaman mevcut teknolojik altyapı ile modellenemeyeceğini iddia eder. Hocamız da benzer şekilde atom altı dünyaya atıfta bulunarak insan bilinci seviyesine belki de hiç ulaşamayacağımızı söylüyor ve bunu insanda var olan estetik kaygı üzerinden anlatarak yazısını bitiyor.
+
+Peki Turing makalesinde yer verdiği olası itirazlarda bu durumu ele almış mıydı? Bu noktada Turing’in düşünen makine tasavvurunu ele almamız gerekir. O, makinesini hatadan münezzeh ve herşeyiyle mükemmel çıktılar veren bir makine şeklinde düşünmüyor, insan da böyle değil mi zaten! Hatta Gödel’in matematiğe yönelttiği eleştirileri de bu bakış açısıyla yanıtlıyor. Gödel’in Eksiklik Teoremi her tutarlı ve mantıksal bir sistemde, sistemin kendisi tarafından ne doğrulanabilir ne de yanlışlanabilir çeşitli ifadeler bulunabileceğini söyler. Turing buna cevap olarak taklit oyunun baz alınması gerektiğini çünkü orada asıl ölçülenin makinenin sorulara verdiği tüm cevapların doğruluğundan ziyade yüzdesel oranının olduğunu belirtir. Ayrıca elimizde, insanın da Eksiklik Teoremi kapsamına girmediği görüşünü kanıtlayan herhangi bir delil olmadığını da ekler. Burada Cahit hocanın da düşünceyi gözlemlenen çıktılar üzerinden tanımladığını belirtmek isterim. Estetik kaygıyı bilincin bir parçası olarak ele alırsak Turing’in bilinç itirazına verdiği cevabı burada zikredebiliriz. Turing’e göre makinenin bilince sahip olamayacağını iddia ediyorsak bu tartışmanın sonu solipsizme kadar gider. Solipsizm bir kişinin yalnızca kendi varlığı ve hissettiklerinden emin olabileceğini iddia eder. Bunu şöyle bir örnekle daha iyi açıklayabiliriz: Şu an etrafınızdaki insanların bilinçli olup olmadığına dair bir şüpheniz yok. Peki yaşadıklarınız bir simülasyondan ibaretse? Buna karşı argüman olarak sunabileceğiniz elinizde ne var? Eğer aklınıza bir cevap geliyorsa lütfen “kavanozdaki beyin” adlı düşünce deneyini araştırın. Turing bu yüzden kimin bilince sahip olup olmadığı sorusu karşısında herkesin bilince sahip olduğu kabulünde mutabık olmalıyız der. Bu yüzden solipsist bir pozisyona düşmektense bu kısmı olduğu gibi kabullenmenin daha akıllıca olacağını belirtir.
+
+Bilgisayar bilimindeki ilerlemeler karşısında bu felsefi sorgulamaların artması gerektiğini düşünüyorum. Özellikle uygulamalı etik alanında yapacağımız çalışmalar çok önemli ve değerlidir. Ben de yazımı bu konularla ilgili olarak doktora ders dönemimde ödev olarak hazırladığım yazılarımın linklerini paylaşarak bitireyim:
+
+Academia - Ömer Faruk Çelebi
+
+Edit 1: Cahit hocanın makalesinin tamamına Dr. Emir Öngüner’in paylaşımından ulaşabilirsiniz. Bu paylaşımı nedeniyle kendisine şükranlarımı sunuyorum.
